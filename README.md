@@ -1,3 +1,3 @@
 # Programming Notes 
-##Python 
-.Docs
+## Python 
+. Docs
