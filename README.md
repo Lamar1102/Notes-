@@ -1,2 +1,3 @@
-# Notes-
-Programming Notes 
+# Programming Notes 
+##Python 
+.Docs
